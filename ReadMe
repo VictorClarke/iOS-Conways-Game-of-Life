@@ -1,5 +1,5 @@
 
-Background: 
+# Background: 
   This iOS application is a visualization of the popular Conway's Game Of Life. In the separate tabs, the user is able to store different intial configurations of the boards or create a new live configuration and proceed througth the development cycle manually or through automated steps, and then see statictics of the cycle on the last page. Utilized a JSON file over a sever at Harvard (No longer active; in process of restoring.). 
   The rules of the "game"/development cycle are:
  
